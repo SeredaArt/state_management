@@ -140,7 +140,7 @@ class MyHomePage extends StatelessWidget {
                     icon: Icon(Icons.add),
                     onPressed: () {
                       basket.add(basketItems[index]);
-                      read;
+                      read();
                     },
                   ),
                 );
