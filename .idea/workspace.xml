@@ -6,7 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5426b8e9-7e05-430f-af20-3ae06420be6e" name="Changes" comment="update">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_flutter_redux/lib/ui/my_app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/7_flutter_redux/lib/ui/my_app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_mobx/lib/ui/my_app.dart" beforeDir="false" afterPath="$PROJECT_DIR$/8_mobx/lib/ui/my_app.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_mobx/lib/ui/state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/8_mobx/lib/ui/state.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_mobx/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/8_mobx/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_mobx/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/8_mobx/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,13 +94,13 @@
       <recent name="C:\Users\sered\StudioProjects\state_management\2_SimpleStateManagement\packages\model" />
     </key>
   </component>
-  <component name="RunManager" selected="Flutter.main.dart (1)">
+  <component name="RunManager" selected="Flutter.main.dart (2)">
     <configuration name="main.dart (1)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
       <option name="filePath" value="$PROJECT_DIR$/7_flutter_redux/lib/main.dart" />
       <method v="2" />
     </configuration>
-    <configuration name="main.dart (3)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
-      <option name="filePath" value="$PROJECT_DIR$/6_bloc/lib/main.dart" />
+    <configuration name="main.dart (2)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/8_mobx/lib/main.dart" />
       <method v="2" />
     </configuration>
     <configuration name="main.dart (4)" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
@@ -118,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Flutter.main.dart (2)" />
         <item itemvalue="Flutter.main.dart (1)" />
         <item itemvalue="Flutter.main.dart (5)" />
         <item itemvalue="Flutter.my_app.dart" />
         <item itemvalue="Flutter.main.dart (4)" />
-        <item itemvalue="Flutter.main.dart (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +250,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696680796984</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="update">
+      <created>1696798048702</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1696798048702</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
